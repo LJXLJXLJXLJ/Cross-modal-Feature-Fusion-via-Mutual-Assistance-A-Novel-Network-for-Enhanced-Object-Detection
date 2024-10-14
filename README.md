@@ -1,4 +1,7 @@
-# Cross-modal-Feature-Fusion-via-Mutual-Assistance-A-Novel-Network-for-Enhanced-Object-Detection
+# Cross-modal Feature Fusion via Mutual
+Assistance: A Novel Network for Enhanced
+Object Detection
+
 ## Installation 
 Python>=3.6.0 is required with all requirements.txt installed including PyTorch>=1.7 (The same as yolov5 https://github.com/ultralytics/yolov5 ).
 
